@@ -1,0 +1,6 @@
+{
+  "name": "比音勒芬预约通行证",
+  "description": "比音勒芬服饰股份有限公司到访预约电子凭证页面",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
